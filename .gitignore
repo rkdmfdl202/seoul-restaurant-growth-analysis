@@ -1,0 +1,14 @@
+# 원본 공공데이터 (파일 크기·원본 재배포 최소화)
+*.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 실행 중 임시 생성물
+상권분석_결과/
+.DS_Store
+Thumbs.db
